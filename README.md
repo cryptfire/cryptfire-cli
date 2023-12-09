@@ -25,3 +25,4 @@ But we have our own backend infrastructure deployed, and are working on Cryptfir
 
 
 ![cloud](https://github.com/cryptfire/cryptfire-cli/assets/114028070/af325aaa-f9ca-4c64-8a81-3ad33365c6bc)
+
